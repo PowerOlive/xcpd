@@ -22,25 +22,25 @@
 
 ## 游戏截图
 ### 开场
-![开场](https://github.com/cheramilm/xcpd/blob/master/screenshot/start.PNG)
+![开场](./screenshot/start.PNG)
 ### 头盔
-![头盔](https://github.com/cheramilm/xcpd/blob/master/screenshot/helmet.PNG)
+![头盔](./screenshot/helmet.PNG)
 ### 车子
-![车子](https://github.com/cheramilm/xcpd/blob/master/screenshot/vehicle.PNG)
+![车子](./screenshot/vehicle.PNG)
 ### 武器
-![武器](https://github.com/cheramilm/xcpd/blob/master/screenshot/weapon.PNG)
+![武器](./screenshot/weapon.PNG)
 ### 医疗包
-![医疗包](https://github.com/cheramilm/xcpd/blob/master/screenshot/medkit.PNG)
+![医疗包](./screenshot/medkit.PNG)
 ### 战斗开始
-![战斗开始](https://github.com/cheramilm/xcpd/blob/master/screenshot/before_fight.PNG)
+![战斗开始](./screenshot/before_fight.PNG)
 ### 战斗中
-![战斗中](https://github.com/cheramilm/xcpd/blob/master/screenshot/fight.PNG)
+![战斗中](./screenshot/fight.PNG)
 ### 战斗胜利
-![战斗胜利](https://github.com/cheramilm/xcpd/blob/master/screenshot/kill.PNG)
+![战斗胜利](./screenshot/kill.PNG)
 ### 战斗失败
-![战斗失败](https://github.com/cheramilm/xcpd/blob/master/screenshot/killed.PNG)
+![战斗失败](./screenshot/killed.PNG)
 ### 吃鸡
-![吃鸡](https://github.com/cheramilm/xcpd/blob/master/screenshot/win.PNG)
+![吃鸡](./screenshot/win.PNG)
 
 
 ## 许可协议
