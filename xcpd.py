@@ -4,7 +4,7 @@ import time
 from os import *
 from random import *
 
-marker="========================"
+marker="=================================="
 spliter='================================================================================================'
 selects=['是','否']
 maxBlood=100
@@ -316,8 +316,8 @@ medkits=[Medkit('医疗盒',50),Medkit('医疗包',30),Medkit('医疗包',30),Me
 enemies=[Person('大魔王',randint(50,maxBlood),randint(2,6),randomItem(vehicles),randomItem(weapons),randomItem(helmets)),Person('小魔王',randint(20,maxBlood),randint(1,5),randomItem(vehicles),randomItem(weapons),randomItem(helmets)),Person('霸哥',randint(10,maxBlood),randint(0,4),randomItem(vehicles),randomItem(weapons),randomItem(helmets)),Person('萌妹',randint(10,maxBlood),randint(0,3),randomItem(vehicles),randomItem(weapons),randomItem(helmets)),Person('马可波',randint(10,maxBlood),randint(0,3),randomItem(vehicles),randomItem(weapons),randomItem(helmets)),Person('瓦特',randint(10,maxBlood),randint(0,3),randomItem(vehicles),randomItem(weapons),randomItem(helmets))]
 blocks=[Block('S城',1000),Block('G港',700),Block('P城',300),Block('自由岛',100)]
 
-print("===本游戏由香肠派对工作室出品===")
-print("抵制不良游戏 拒绝盗版游戏 \n注意自我保护 谨防受骗上当 \n适度游戏益脑 沉迷游戏伤身 \n合理安排时间 享受健康生活");
+print(marker+" 本游戏由香肠派对工作室出品 "+marker)
+print("\t\t\t\t    抵制不良游戏 拒绝盗版游戏 \n\t\t\t\t    注意自我保护 谨防受骗上当 \n\t\t\t\t    适度游戏益脑 沉迷游戏伤身 \n\t\t\t\t    合理安排时间 享受健康生活");
 print(spliter)
 
 name = input("请输入角色名字：")
