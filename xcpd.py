@@ -1,7 +1,6 @@
 import sys
 import copy
 import time
-from os import *
 from random import *
 
 marker = "=================================="
